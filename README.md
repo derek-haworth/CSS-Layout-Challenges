@@ -1,6 +1,6 @@
 # CSS-Layout-Challenges
 
-Challenge provided by: Turing School of Software & Design
+Challenges provided by: Turing School of Software & Design
 https://github.com/turingschool-examples/css-layout-challenges
 
 
