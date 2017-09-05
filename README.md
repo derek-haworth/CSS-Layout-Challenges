@@ -1,4 +1,5 @@
 # CSS-Layout-Challenges
+## For the purposes of simple practice
 
 Challenges provided by: Turing School of Software & Design
 https://github.com/turingschool-examples/css-layout-challenges
