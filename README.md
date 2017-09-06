@@ -1,5 +1,5 @@
 # CSS-Layout-Challenges
-## Simply just for practice and exercising the brain
+## For practice and exercising the brain - gotta stay fresh.
 
 Challenges provided by: Turing School of Software & Design
 https://github.com/turingschool-examples/css-layout-challenges
